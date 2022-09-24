@@ -1,0 +1,1 @@
+# skill25-git-configuration
